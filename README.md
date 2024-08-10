@@ -1,4 +1,4 @@
-# WEB102 Prework - *Sea Monster*
+![Untitled](https://github.com/user-attachments/assets/037af3d9-816d-4fce-a9c0-da1b31bfbe2b)# WEB102 Prework - *Sea Monster*
 
 Submitted by: **Areeb Malik**
 
@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='![Untitled](https://github.com/user-attachments/assets/43fd1ba1-6862-450b-80c1-c4337f27f252)
+' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
